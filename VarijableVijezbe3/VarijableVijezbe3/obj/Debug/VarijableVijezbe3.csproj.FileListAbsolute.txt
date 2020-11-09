@@ -1,0 +1,7 @@
+C:\Users\Učenik 5\source\repos\VarijableVijezbe3\VarijableVijezbe3\bin\Debug\VarijableVijezbe3.exe.config
+C:\Users\Učenik 5\source\repos\VarijableVijezbe3\VarijableVijezbe3\bin\Debug\VarijableVijezbe3.exe
+C:\Users\Učenik 5\source\repos\VarijableVijezbe3\VarijableVijezbe3\bin\Debug\VarijableVijezbe3.pdb
+C:\Users\Učenik 5\source\repos\VarijableVijezbe3\VarijableVijezbe3\obj\Debug\VarijableVijezbe3.csprojAssemblyReference.cache
+C:\Users\Učenik 5\source\repos\VarijableVijezbe3\VarijableVijezbe3\obj\Debug\VarijableVijezbe3.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 5\source\repos\VarijableVijezbe3\VarijableVijezbe3\obj\Debug\VarijableVijezbe3.exe
+C:\Users\Učenik 5\source\repos\VarijableVijezbe3\VarijableVijezbe3\obj\Debug\VarijableVijezbe3.pdb
